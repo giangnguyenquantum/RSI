@@ -1,0 +1,9 @@
+websocket-client
+pprint
+TA-lib
+python-binance
+datetime
+telegram_send
+numpy
+pandas
+backtrader

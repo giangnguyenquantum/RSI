@@ -1,0 +1,1 @@
+nohup python3 -u bot_RSI.py > real_time_results.txt &
